@@ -12,7 +12,7 @@ for n = 3
  *******
 *********
 
-when the loop is printing the spaces ans stars, we will not focus on the right side of the stars.
+when the loop is printing the spaces and stars, we will not focus on the right side of the stars.
 '''
 
 num = int(input("Enter the number: "))
