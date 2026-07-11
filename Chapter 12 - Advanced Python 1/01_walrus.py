@@ -12,7 +12,7 @@ n = 5
 
 if n < 3 : and so on
 
-but with assignment expression.... hume aik hi line me assignment ka kaam bhi kr skty hain... aur phir usi ko expressions k tor pr use kr skty hain, for conditions. For example:
+but with assignment expression.... hum aik hi line me assignment ka kaam bhi kr skty hain... aur phir usi ko expressions k tor pr use kr skty hain, for conditions. For example:
 
 if n := 5 < 3 :
 
